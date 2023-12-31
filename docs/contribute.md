@@ -13,7 +13,7 @@ Here is a table that would help you to find out the currently available projects
 | upload        | Typescript, Javascript                       | [metacall/upload](upload)                                           | [upload](upload.md)                         |
 | install       | BASH                                         | [metacall/install](https://github.com/metacall/install)             | [install](/docs/install.md)                 |
 | dlang-port    | D                                            | [metacall/dlang-port](https://github.com/metacall/dlang-port)       | [dlang-port](/docs/dlang-port.md)           |
-| php-port      | PHP                                          | [metacall/php-port](https://github.com/metacall/php-port)           | [php-port](/docs/php-port.md)               |
+<!-- | php-port      | PHP                                          | [metacall/php-port](https://github.com/metacall/php-port)           | [php-port](/docs/php-port.md)               | -->
 | cli           | Docker                                       | [metacall/cli](https://github.com/metacall/cli)                     | [cli](/docs/cli.md)                         |
 | guix          | Docker, BASH                                 | [metacall/guix](https://github.com/metacall/guix)                   | [guix](/docs/guix.md)                       |
 | distributable | Scheme, Docker, C                            | [metacall/distributable](https://github.com/metacall/distributable) | [distributable](/docs/distributable.md)     |
